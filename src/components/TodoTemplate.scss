@@ -1,0 +1,24 @@
+.contents {    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6rem;
+    max-width: 700px;
+    min-width: 500px;
+    border-radius: 5px;
+    overflow: hidden;
+
+    .title{
+        display: flex;
+        background: darkcyan;
+        height: 70px;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 1.1rem;
+    }
+
+    .body{
+        background: white;
+        min-height: 300px;
+    }
+}

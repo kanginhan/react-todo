@@ -1,0 +1,24 @@
+.todo-input {
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+
+    .box{
+        border: none;
+        background: #333333;
+        width: 100%;
+        color: white;
+        padding-left: 1rem;
+    }
+
+    .btn-create{
+        display: flex;
+        background: #777777;
+        height: 50px;
+        width: 60px;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        cursor: pointer;
+    }
+}
