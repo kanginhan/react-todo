@@ -1,0 +1,11 @@
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 5px 10px 5px;
+
+    .content{
+        width: 100%;
+        padding-left: 10px;
+    }
+}
